@@ -97,13 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://54.159.114.13:8081/repository/FaletiApp-RELEASE/</url>
+	      <url>http://52.87.155.215:8081/repository/SNG-app/
+</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://54.159.114.13:8081/repository/FaletiApp-SNAPSHOT/
+	      <url>http://52.87.155.215:8081/repository/SNG-appSNAPSHOT/
 </url>
 
 	    </snapshotRepository>
