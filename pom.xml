@@ -97,14 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://52.87.155.215:8081/repository/SNG-app/
+	      <url>http://34.230.46.53:8081/repository/Rasheed-app/
 </url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://52.87.155.215:8081/repository/SNG-appSNAPSHOT/
+	      <url>http://34.230.46.53:8081/repository/Rasheed-appSNAPSHOT/
 </url>
 
 	    </snapshotRepository>
